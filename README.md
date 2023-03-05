@@ -8,47 +8,17 @@ The souce code of the model detail in "*./src/models*" will be updated if the pa
 # Complete experimental results
 Due to the space limitation, we do not report all the experimental results of MRR, Hits@1, Hits@3, Hits@10 on FB-SE, NELL-SE, and WN-SE completely. Thus we present these experimental results in this page.
 
-
-## FB-SE
-The results on FB-SE.
-
-### MRR
-![Results of MRR](./Figure/MRR_FB-SE)
-
-### Hits@1
-![Results of Hits@1](./Figure/Hits@1_FB-SE)
-
-### Hits@3
-![Results of Hits@3](./Figure/Hits@3_FB-SE)
-
-### Hits@10
-![Results of Hits@10](./Figure/Hits@10_FB-SE)
-
-
-## NELL-SE
+## ISE$^2$ vs. MBE
+The complete experimental results between ISE$^2$ and MBE.
 
 ### MRR
-![Results of MRR](./Figure/MRR_FB-SE)
+<img src="./figures/vsMBE_MRR.png" width="50%">
 
 ### Hits@1
-![Results of Hits@1](./Figure/Hits@1_FB-SE)
+<img src="./figures/vsMBE_Hits@1.png" width="50%">
 
-### Hits@3
-![Results of Hits@3](./Figure/Hits@3_FB-SE)
-
-### Hits@10
-![Results of Hits@10](./Figure/Hits@10_FB-SE)
-
-## WN-SE
-
-### MRR
-![Results of MRR](./Figure/MRR_FB-SE)
-
-### Hits@1
-![Results of Hits@1](./Figure/Hits@1_FB-SE)
-
-### Hits@3
-![Results of Hits@3](./Figure/Hits@3_FB-SE)
+### Hits@5
+<img src="./figures/vsMBE_Hits@5.png" width="50%">
 
 ### Hits@10
-![Results of Hits@10](./Figure/Hits@10_FB-SE)
+<img src="./figures/vsMBE_Hits@10.png" width="50%">
