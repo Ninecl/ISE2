@@ -19,7 +19,7 @@ The efficiency of subgraph extraction is greatly improved compared with Grail an
 
 ## More Experimental Results on YAGO-SE
 
-We present more detailed experimental results on YAGO-SE here. To be specific, we report the MRR and Hits@1 results of ISE2, Grail, RED-GNN, and MBE. What's more, we also conduct ablation study and robustness analysis on YAGO-SE.
+We present more detailed experimental results on YAGO-SE here. To be specific, we report the MRR and Hits@1 results of ISE2, Grail, RED-GNN, and MBE. What's more, we also conduct ablation study on YAGO-SE.
 
 ### Main Results
 
