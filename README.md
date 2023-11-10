@@ -23,7 +23,7 @@ We present more detailed experimental results on YAGO-SE here. To be specific, w
 
 ### Main Results
 
-The MRR results of ISE2 and several competitive baselines on YAGO-SE
+The MRR results of ISE2 and several competitive baselines on YAGO-SE.
 
 | Model   | s1    | s2    | s3    | s4    | s5    |
 | ------- | ----- | ----- | ----- | ----- | ----- |
@@ -40,3 +40,9 @@ The Hits@1 results of ISE2 and several competitive baselines on YAGO-SE
 | Grail   | 0.410 | 0.372 | 0.359 | 0.399 | 0.468 |
 | RED-GNN | 0.416 | 0.386 | 0.371 | 0.415 | 0.492 |
 | ISE2    | 0.441 | 0.407 | 0.401 | 0.459 | 0.513 |
+
+### Ablation Study
+
+The ablation study on YAGO-SE to evalute the effectiveness of different components of ISE2.
+
+<img src="/Users/drivewind/Desktop/YAGO-SE_ablation.png" alt="YAGO-SE_ablation" style="zoom:80%;" />
