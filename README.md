@@ -45,4 +45,4 @@ The Hits@1 results of ISE2 and several competitive baselines on YAGO-SE
 
 The ablation study on YAGO-SE to evalute the effectiveness of different components of ISE2.
 
-<img src="/Users/drivewind/Desktop/YAGO-SE_ablation.png" alt="YAGO-SE_ablation" style="zoom:80%;" />
+<img src="./figures/YAGO-SE_ablation.png" alt="YAGO-SE_ablation" style="zoom:80%;" />
